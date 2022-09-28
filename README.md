@@ -3,7 +3,7 @@
 ## Benchmarking LINQ Performance
  - This is a simple exmaple that benchmarks the performance of the Single and First methods of LINQ.
  
- ![alt text](http://url/to/img.png)
+ ![alt text](./benchmarking-test/Ressources/linq-performance-benchmark.png)
 
 ###### Interpreting the Benchmarking Results
  - For each of the benchmarked methods, a row of the result data is generated. The benchmark results show the mean execution time, garbage collections (GCs), and the allocated memory.
