@@ -1,4 +1,4 @@
-# Benchmarking-test-dotnet-6
+# Benchmarking console app with dotnet 6
 
 ## Benchmarking LINQ Performance
  - This is a simple exmaple that benchmarks the performance of the Single and First methods of LINQ.
