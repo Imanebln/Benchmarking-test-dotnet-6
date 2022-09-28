@@ -18,4 +18,3 @@
  - *Gen 0*: This column specifies the Gen 0 collections made for each set of 1000 operations.
  - *Allocated*: This column specifies the managed memory allocated for a single operation.
 
-## Benchmarking StringBuilder Performance
